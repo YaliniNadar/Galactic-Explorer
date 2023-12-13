@@ -13,5 +13,5 @@ An immerse THREE.js experience that itegrates 3D models, shaders, and interactiv
 ## Demo
 Watch the live demo here:
 <a href="https://www.youtube.com/watch?v=PbjOScsf1BQ">
-  <img src="https://img.youtube.com/vi/PbjOScsf1BQ/0.jpg" alt="Project Demo" width="800">
+  <img src="https://img.youtube.com/vi/PbjOScsf1BQ/maxresdefault.jpg" alt="Project Demo" width="800">
 </a>
