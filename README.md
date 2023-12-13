@@ -11,4 +11,7 @@ An immerse THREE.js experience that itegrates 3D models, shaders, and interactiv
 - Procedural galaxy generation
 
 ## Demo
-[![Project Demo](https://img.youtube.com/vi/PbjOScsf1BQ/0.jpg)](https://www.youtube.com/watch?v=PbjOScsf1BQ)
+Watch the live demo here:
+<a href="https://www.youtube.com/watch?v=PbjOScsf1BQ">
+  <img src="https://img.youtube.com/vi/PbjOScsf1BQ/0.jpg" alt="Project Demo" width="800">
+</a>
