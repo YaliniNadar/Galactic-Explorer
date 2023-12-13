@@ -1,6 +1,6 @@
 # Galactic Explorer
 
-An immerse THREE.js experience that itegrates 3D models, shaders, and interactive controls. 
+An immersive THREE.js experience that integrates 3D models, shaders, and interactive controls. 
 
 ## Key Features
 
@@ -12,6 +12,7 @@ An immerse THREE.js experience that itegrates 3D models, shaders, and interactiv
 
 ## Demo
 Watch the live demo here:
+
 <a href="https://www.youtube.com/watch?v=PbjOScsf1BQ">
   <img src="https://img.youtube.com/vi/PbjOScsf1BQ/maxresdefault.jpg" alt="Project Demo" width="800">
 </a>
